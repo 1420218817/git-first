@@ -5,4 +5,5 @@ public static void main(String args[]){
 	sout(fenzhi2);
 	sout(https);
 	sout(pengge);
+	sout(penggediannaoprint);
 }
